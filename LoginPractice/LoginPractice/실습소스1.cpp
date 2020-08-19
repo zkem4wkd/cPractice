@@ -3,7 +3,7 @@
 
 void main13()
 {
-	/*int number = 0;
+	int number = 0;
 	int number2 = 0;
 	int number3 = 0;
 	int number4 = 0;
@@ -23,5 +23,5 @@ void main13()
 
 	std::string number = "";
 	scanf("%s", number);
-	printf("%s", number);*/
+	printf("%s", number);
 }

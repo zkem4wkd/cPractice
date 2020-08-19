@@ -4,7 +4,7 @@
 
 void main44()
 {
-	/*int select = 0;
+	int select = 0;
 	int Hp = 100;
 	int Atk = 20;
 	int Def = 10;
@@ -76,6 +76,6 @@ void main44()
 	Hp = Hp + 8;
 	Atk = Atk + 2;
 	Def = Def + 1;
-	printf("능력치가 상승하였다. \n현재 능력치 : HP : %d / 공격력 : %d / 방어력 : %d\n", Hp, Atk, Def);*/
+	printf("능력치가 상승하였다. \n현재 능력치 : HP : %d / 공격력 : %d / 방어력 : %d\n", Hp, Atk, Def);
 
 }
