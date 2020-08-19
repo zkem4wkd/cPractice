@@ -1,0 +1,2 @@
+C:\C\cPractice\Project2\Debug\Project2.exe
+C:\C\cPractice\Project2\Debug\Project2.pdb
