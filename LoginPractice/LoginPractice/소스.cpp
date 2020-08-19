@@ -2,7 +2,7 @@
 #include <iostream>
 #include <windows.h>
 
-int main(void)
+void main1()
 {
 	int select = 0;
 	int Hp = 100;
