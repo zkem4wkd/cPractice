@@ -1,4 +1,8 @@
-﻿  소스3.cpp
-C:\C\cPractice\LoginPractice\LoginPractice\소스3.cpp(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\C\cPractice\LoginPractice\LoginPractice\소스3.cpp(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  소스.cpp
+  실습소스2.cpp
+C:\C\cPractice\LoginPractice\LoginPractice\실습소스2.cpp(23,8): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+C:\C\cPractice\LoginPractice\LoginPractice\실습소스2.cpp(31,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+C:\C\cPractice\LoginPractice\LoginPractice\실습소스2.cpp(23,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\cPractice\LoginPractice\LoginPractice\실습소스2.cpp(25,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
   LoginPractice.vcxproj -> C:\C\cPractice\LoginPractice\Debug\LoginPractice.exe

@@ -3,7 +3,7 @@
 #include <Windows.h>
 
 using namespace std;
-void main22()
+int main()
 {
 	string id = "";
 	int passWd = 0;
@@ -32,5 +32,5 @@ void main22()
 	printf("PassWord : %d\n", passWd);
 	printf("========================");
 	
-
+	return 0;
 }

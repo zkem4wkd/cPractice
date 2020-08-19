@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 
-int main()
+int main123()
 {
 	int number = 0;
 	int number2 = 0;
