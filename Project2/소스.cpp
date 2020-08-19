@@ -15,4 +15,11 @@ int main(void)
 	int MP = 5;
 
 	printf("AP:%d\nGP:%d\nMP:%d\n", Attack, Guard, MP);
+
+	//float type
+
+	float VectorX = 10.5;
+	float VectorY = 20.8;
+
+	printf("%.1f\n%.1f\n", VectorX, VectorY);
 }
