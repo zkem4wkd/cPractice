@@ -6,7 +6,7 @@ int main(void)
 	char Char = 'a';
 	char Hello = 'H';
 
-	printf("%c\n",Char);
+	printf("%c\n", Char);
 	printf("%c\n", Hello);
 
 	//int type
@@ -22,4 +22,21 @@ int main(void)
 	float VectorY = 20.8;
 
 	printf("%.1f\n%.1f\n", VectorX, VectorY);
+
+	//data type
+
+	char a;
+	short m;
+	int b;
+	long k;
+	float c;
+	double s;
+
+	printf("char : %d byte \n", sizeof(a));
+	printf("short : %d byte \n", sizeof(m));
+	printf("int : %d byte \n", sizeof(b));
+	printf("long : %d byte \n", sizeof(k));
+	printf("float : %d byte \n", sizeof(c));
+	printf("double : %d byte \n", sizeof(s));
+
 }
