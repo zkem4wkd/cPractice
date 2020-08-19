@@ -76,6 +76,6 @@ int main(void)
 	Hp = Hp + 8;
 	Atk = Atk + 2;
 	Def = Def + 1;
-	printf("능력치가 상승하였다. \nHP : %d / 공격력 : %d / 방어력 : %d\n", Hp, Atk, Def);
+	printf("능력치가 상승하였다. \n현재 능력치 : HP : %d / 공격력 : %d / 방어력 : %d\n", Hp, Atk, Def);
 
 }
