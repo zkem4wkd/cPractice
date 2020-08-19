@@ -1,3 +1,4 @@
 ﻿  소스.cpp
 C:\C\cPractice\LoginPractice\LoginPractice\소스.cpp(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\cPractice\LoginPractice\LoginPractice\소스.cpp(64,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   LoginPractice.vcxproj -> C:\C\cPractice\LoginPractice\Debug\LoginPractice.exe
