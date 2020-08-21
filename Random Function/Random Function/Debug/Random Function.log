@@ -1,3 +1,3 @@
 ﻿  소스.cpp
-C:\C\cPractice\Random Function\Random Function\소스.cpp(96,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\C\cPractice\Random Function\Random Function\소스.cpp(139,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   Random Function.vcxproj -> C:\C\cPractice\Random Function\Debug\Random Function.exe

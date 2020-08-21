@@ -93,7 +93,7 @@ int main()
 	printf("%d\n", inven);*/
 
 	
-	srand(time(NULL));
+	/*srand(time(NULL));
 	int random = rand() %10;
 	int a = 0;
 
@@ -125,7 +125,11 @@ int main()
 		}
 	}
 
-	printf("You got : %d",a);
+	printf("You got : %d",a);*/
+
+
+	
+	
 
 
 	return 0;
