@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main()
+int main12()
 {
 	string lunch[10];
 	lunch[0] = "Chicken soup";
