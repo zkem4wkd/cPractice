@@ -1,0 +1,20 @@
+﻿  StudentAvg.cpp
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(20,11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(22,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(22,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(22,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(28,11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(30,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(30,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(30,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(36,11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(38,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(38,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(38,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(43,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(44,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(45,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(22,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(30,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\cPractice\UpandDown Game\UpandDown Game\StudentAvg.cpp(38,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  UpandDown Game.vcxproj -> C:\C\cPractice\UpandDown Game\Debug\UpandDown Game.exe
