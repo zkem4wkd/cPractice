@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\C\cPractice\1st week review\1st week review\소스.cpp(78,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\cPractice\1st week review\1st week review\소스.cpp(80,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\cPractice\1st week review\1st week review\소스.cpp(82,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\cPractice\1st week review\1st week review\소스.cpp(92,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1st week review.vcxproj -> C:\C\cPractice\1st week review\Debug\1st week review.exe
