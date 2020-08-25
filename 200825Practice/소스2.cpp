@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int main51()
 {
 	int board[25] = { 0 };
 	int count = 24;
@@ -17,4 +17,6 @@ int main()
 		}
 		printf("\n");
 	}
+
+	return 0;
 }
