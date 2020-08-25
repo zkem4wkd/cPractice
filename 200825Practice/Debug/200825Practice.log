@@ -1,0 +1,6 @@
+﻿  소스3.cpp
+C:\C\cPractice\200825Practice\소스3.cpp(26,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C\cPractice\200825Practice\소스3.cpp(65,6): warning C4102: 'start': 참조되지 않은 레이블입니다.
+C:\C\cPractice\200825Practice\소스3.cpp(79,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+소스3.obj : error LNK2005: _main이(가) 소스2.obj에 이미 정의되어 있습니다.
+C:\C\cPractice\200825Practice\Debug\200825Practice.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

@@ -1,0 +1,2 @@
+C:\C\cPractice\200825Practice\Debug\200825Practice.exe
+C:\C\cPractice\200825Practice\Debug\200825Practice.pdb
