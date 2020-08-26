@@ -66,7 +66,7 @@ struct Char
 };
 
 
-int main()
+int main1231()
 {
 	int num = 0;
 	/*int asd = 1;

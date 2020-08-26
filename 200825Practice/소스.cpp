@@ -54,14 +54,14 @@ int Compare(int lotto[], int mlotto[])
 			}
 		}
 	}
-	printf("Same numbers : %d", count);
+	printf("Same numbers : %d\n", count);
 
 	return count;
 }
 
 
 
-int main12()
+int main()
 {
 	int num = 0;
 	int mLotto[7];
@@ -110,12 +110,13 @@ int main12()
 				printf("%2d ", lotto[i]);
 				Sleep(100);
 			}
+			Compare(lotto, mLotto);
 			printf("\n");
 			j++;
 		}
-
+		
 	}
-	Compare(lotto, mLotto);
+	
 
 	return 0;
 }
