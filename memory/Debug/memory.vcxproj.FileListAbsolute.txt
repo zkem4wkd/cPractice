@@ -1,0 +1,2 @@
+C:\C\cPractice\memory\Debug\memory.exe
+C:\C\cPractice\memory\Debug\memory.pdb

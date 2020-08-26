@@ -1,0 +1,2 @@
+C:\C\cPractice\Struct\Debug\Struct.exe
+C:\C\cPractice\Struct\Debug\Struct.pdb
