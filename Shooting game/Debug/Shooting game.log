@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\C\cPractice\Shooting game\소스.cpp(59,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Shooting game.vcxproj -> C:\C\cPractice\Shooting game\Debug\Shooting game.exe

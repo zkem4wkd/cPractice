@@ -1,0 +1,2 @@
+C:\C\cPractice\Shooting game\Debug\Shooting game.exe
+C:\C\cPractice\Shooting game\Debug\Shooting game.pdb
