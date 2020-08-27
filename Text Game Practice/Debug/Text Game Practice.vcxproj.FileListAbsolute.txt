@@ -1,0 +1,2 @@
+C:\C\cPractice\Text Game Practice\Debug\Text Game Practice.exe
+C:\C\cPractice\Text Game Practice\Debug\Text Game Practice.pdb
