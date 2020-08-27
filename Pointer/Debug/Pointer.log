@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\C\cPractice\Pointer\소스.cpp(46,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\C\cPractice\Pointer\소스.cpp(47,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\C\cPractice\Pointer\소스.cpp(7,6): warning C4101: 'num1' :참조되지 않은 지역 변수입니다.
+C:\C\cPractice\Pointer\소스.cpp(7,11): warning C4101: 'num2' :참조되지 않은 지역 변수입니다.
+C:\C\cPractice\Pointer\소스.cpp(7,16): warning C4101: 'num3' :참조되지 않은 지역 변수입니다.
+  Pointer.vcxproj -> C:\C\cPractice\Pointer\Debug\Pointer.exe

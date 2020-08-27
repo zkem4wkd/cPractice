@@ -1,0 +1,2 @@
+C:\C\cPractice\Pointer2\Debug\Pointer2.exe
+C:\C\cPractice\Pointer2\Debug\Pointer2.pdb
