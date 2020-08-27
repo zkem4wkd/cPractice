@@ -1,0 +1,2 @@
+C:\C\cPractice\strlen\Debug\strlen.exe
+C:\C\cPractice\strlen\Debug\strlen.pdb
