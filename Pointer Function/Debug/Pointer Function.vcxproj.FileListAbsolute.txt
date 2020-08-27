@@ -1,0 +1,2 @@
+C:\C\cPractice\Pointer Function\Debug\Pointer Function.exe
+C:\C\cPractice\Pointer Function\Debug\Pointer Function.pdb
