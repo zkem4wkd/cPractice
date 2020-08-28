@@ -1,0 +1,2 @@
+C:\C\cPractice\Goto X Y\Debug\Goto X Y.exe
+C:\C\cPractice\Goto X Y\Debug\Goto X Y.pdb
