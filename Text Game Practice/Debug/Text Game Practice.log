@@ -1,3 +1,21 @@
 ﻿  소스.cpp
-C:\C\cPractice\Text Game Practice\소스.cpp(238): warning C4717: 'dBattle': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
-  Text Game Practice.vcxproj -> C:\C\cPractice\Text Game Practice\Debug\Text Game Practice.exe
+C:\C\cPractice\Text Game Practice\소스.cpp(334,23): error C2660: 'Get_Item': 함수는 1개의 인수를 사용하지 않습니다.
+C:\C\cPractice\Text Game Practice\소스.cpp(59,6): message : 'Get_Item' 선언을 참조하십시오.
+C:\C\cPractice\Text Game Practice\소스.cpp(339,23): error C2660: 'Get_Item': 함수는 1개의 인수를 사용하지 않습니다.
+C:\C\cPractice\Text Game Practice\소스.cpp(59,6): message : 'Get_Item' 선언을 참조하십시오.
+C:\C\cPractice\Text Game Practice\소스.cpp(355,24): error C2660: 'Get_Item': 함수는 1개의 인수를 사용하지 않습니다.
+C:\C\cPractice\Text Game Practice\소스.cpp(59,6): message : 'Get_Item' 선언을 참조하십시오.
+C:\C\cPractice\Text Game Practice\소스.cpp(360,24): error C2660: 'Get_Item': 함수는 1개의 인수를 사용하지 않습니다.
+C:\C\cPractice\Text Game Practice\소스.cpp(59,6): message : 'Get_Item' 선언을 참조하십시오.
+C:\C\cPractice\Text Game Practice\소스.cpp(376,26): error C2660: 'Get_Item': 함수는 1개의 인수를 사용하지 않습니다.
+C:\C\cPractice\Text Game Practice\소스.cpp(59,6): message : 'Get_Item' 선언을 참조하십시오.
+C:\C\cPractice\Text Game Practice\소스.cpp(381,26): error C2660: 'Get_Item': 함수는 1개의 인수를 사용하지 않습니다.
+C:\C\cPractice\Text Game Practice\소스.cpp(59,6): message : 'Get_Item' 선언을 참조하십시오.
+C:\C\cPractice\Text Game Practice\소스.cpp(397,24): error C2660: 'Get_Item': 함수는 1개의 인수를 사용하지 않습니다.
+C:\C\cPractice\Text Game Practice\소스.cpp(59,6): message : 'Get_Item' 선언을 참조하십시오.
+C:\C\cPractice\Text Game Practice\소스.cpp(402,24): error C2660: 'Get_Item': 함수는 1개의 인수를 사용하지 않습니다.
+C:\C\cPractice\Text Game Practice\소스.cpp(59,6): message : 'Get_Item' 선언을 참조하십시오.
+C:\C\cPractice\Text Game Practice\소스.cpp(418,28): error C2660: 'Get_Item': 함수는 1개의 인수를 사용하지 않습니다.
+C:\C\cPractice\Text Game Practice\소스.cpp(59,6): message : 'Get_Item' 선언을 참조하십시오.
+C:\C\cPractice\Text Game Practice\소스.cpp(423,28): error C2660: 'Get_Item': 함수는 1개의 인수를 사용하지 않습니다.
+C:\C\cPractice\Text Game Practice\소스.cpp(59,6): message : 'Get_Item' 선언을 참조하십시오.
