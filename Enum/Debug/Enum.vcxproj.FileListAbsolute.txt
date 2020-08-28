@@ -1,0 +1,2 @@
+C:\C\cPractice\Enum\Debug\Enum.exe
+C:\C\cPractice\Enum\Debug\Enum.pdb
