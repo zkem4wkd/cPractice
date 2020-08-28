@@ -1,0 +1,2 @@
+C:\C\Report Game\Debug\Report Game.exe
+C:\C\Report Game\Debug\Report Game.pdb

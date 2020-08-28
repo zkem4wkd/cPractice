@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\C\Report Game\소스.cpp(31,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\C\Report Game\소스.cpp(31,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\C\Report Game\소스.cpp(228,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Report Game.vcxproj -> C:\C\Report Game\Debug\Report Game.exe
